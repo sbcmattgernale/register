@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "matthew-gernale",
+    "email": "dev.mattgernale@gmail.com",
+  },
+  "record":{
+    "RECORDTYPE": "CNAME"
+  }
+}
